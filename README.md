@@ -10,7 +10,7 @@ data (biofam)
 
 biofam [1:1, 1:27]
 
-**Columns 10-25 contain the sequence data.**
+*Columns 10-25 contain the sequence data.*
 
 
 **Look at the first six rows of the data frame.**
