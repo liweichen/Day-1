@@ -1,7 +1,9 @@
-** Starting with R and TraMineR** 
+** Starting with R and TraMineR**
+
 library (TraMineR)
 
 ** Look at the help page of biofam data.Find out which are the columns containing the sequence data.**
+
 data (biofam)
 ?biofam
 biofam [1:1, 1:27]
