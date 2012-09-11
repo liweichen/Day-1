@@ -31,7 +31,7 @@ seqiplot (biofam.seq)
 
 seqfplot (biofam.seq)
 
-**Plot all sequences sorted. **
+**Plot all sequences sorted.**
 
 seqIplot (biofam.seq, sortv="from.end")
 
