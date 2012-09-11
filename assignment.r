@@ -7,7 +7,7 @@ This research project is still at an initial stage of conceptualization. Up till
 •  My initial idea is to treat the data as one sequence per case, i.e., multiple activities/interactions within one teleconsultation. 
 •	Data will be coded for multiple stakeholders, including the activities performed by physicians, patients, and administrators, as well as the interactions between them. Thus it is possible to view the data as multichannel sequences.  I would love to learn more about multichannel sequences in our later sessions.
 
-3. The nature of the sequences (Categorical? Chronological? State or event sequences? ...,)
+3. The nature of the sequences (Categorical? Chronological? State or event sequences? )
 •	Categorical sequences.
 •	Event sequences. 
 
